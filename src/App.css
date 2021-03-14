@@ -28,6 +28,10 @@ section {
     align-items: center;
 }
 
+footer > .center > * {
+    max-width: 500px;
+}
+
 section p {
     max-width: 200px;
 }
